@@ -1,4 +1,4 @@
-艺术签名GUI桌面程序 ![enter image description here](Pic/logo_small.gif)
+艺术签名GUI桌面程序 ![enter image description here](Pic/logo.gif)
 ===========================
 ![](https://img.shields.io/badge/Python-3.6.3-green.svg) ![](https://img.shields.io/badge/requests-2.18.4-green.svg) ![](https://img.shields.io/badge/tkinter-green.svg)
 ### 艺术签名官网 - http://www.yishuzi.com/
